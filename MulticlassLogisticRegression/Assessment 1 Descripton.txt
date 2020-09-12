@@ -1,0 +1,7 @@
+1. Check the iris_multiclass.csv file carefully.
+2. Check the "Multiclass Logistic Regression Raw Implementation Template.ipynb" or "Multiclass Logistic Regression Raw Implementation Template.py" carefully. You should use any of these two files.
+3. Do the changes in the places where it is mentioned "#Changes required here", and replace "None" with your code. Don't change other portion of the code.
+4. After completing the code (in .ipynb or in .py format), rename it with your student id. For example,"1505123.py" or "1505123.ipynb".
+5. Finally, upload only this file (Don't upload the data file, i.e., iris_multiclass.csv) into moodle in "CSE 471 Assessment 1" (under the section "19 September - 25 September").
+6. Submission Deadline is 11:55 PM, September 21, 2020 (Monday).
+7. If you face any problem, please email to madhusudan.buet@gmail.com.
